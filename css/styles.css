@@ -11,7 +11,7 @@ body{
     border-radius: 10px;
     margin-bottom: 25px;
     padding-left: 25px;
-    min-width: 200px;
+    width: 1100px;
     height: 75px;
     display: flex;
     justify-content: flex-start;
@@ -42,7 +42,7 @@ a{
     vertical-align: top;
     width: 775px;
     border-radius: 10px;
-    margin: 0px 0px 25px 25px;
+    margin: 0px 0px 25px 30px;
     padding: 25px;
 }
 h2{
@@ -58,7 +58,7 @@ p{
 .footer{
     display: inline-block;
     background-color: grey;
-    min-width: 750px;
+    width: 1100px;
     border-radius: 10px;
     padding-left: 25px;
     height: 50px;
